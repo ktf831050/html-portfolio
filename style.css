@@ -1,0 +1,28 @@
+body {
+            background: rgba(30, 88, 95, 0.8);
+            font-family: arial;
+            margin: 0px;
+        }
+h1 {
+            text-align: center;
+            padding: 0px;
+} /* dit con me may nhin cai cu cac may do thang mat lon */
+.c1 {
+            width: 500vh;
+            height: 50vh;
+            background-color: hsla(34, 78%, 91%, 0.514);
+            opacity: 50%;
+            margin-left: auto;
+            margin-right: auto;
+            /* box-shadow and linear gradient */
+        }
+
+
+        /*
+a:hover {
+            color: red;
+        }
+a:visited {
+            color: blue;
+        }
+        */
